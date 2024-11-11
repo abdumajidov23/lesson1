@@ -1,0 +1,28 @@
+*{
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+}
+
+
+div{
+    border: 1px solid #000;
+}
+
+samp{
+    background-color: blueviolet;
+    text-emphasis-color: white;
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
