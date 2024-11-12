@@ -97,11 +97,11 @@ body, html {
 }
 
 .facebook-btn {
-    background-color: #3b5998; /* Facebook blue */
+    background-color: #3b5998;
 }
 
 .google-btn {
-    background-color: #db4437; /* Google red */
+    background-color: #db4437; 
 }
 
 .facebook-btn:hover {
